@@ -16,49 +16,59 @@
 			exit;
 		}
         ?>
-        <style> #map{width: 70%;height: 94vh;z-index:1;float:left;}</style>
+        <style> #map{width: 70%;height: 160vh;z-index:1;float:left;}</style>
     </head>
     <body>
         <div id='map'> <script src="./inc/js/addorganisme.js"></script></div>
         <div class="gestion">
-            <div class="box">
-                <div class="inputDiv">
+              <div class="box">
+                <div class="inputDiv"> 
+       
                     <input type="hidden" value="0" name="cpdeville" id="cpdeville">
-                    <b><center>Ajouté un organisme</b> </center><br><br>
-                    <b>Latitude</b>: <br>
-                    <input type="text" id="latitude"> <br>
-                    <b>Longitude</b>: <br>
-                    <input type="text" id="longitude"> <br>
-                    <b>Numero d'activité</b>: <br>
-                    <input type="text" id="numero_activite"> <br>
-                    <b>N° SIRET d'un organisme de formation</b>: <br>
-                    <input type="text" id="siret_organisme_formation"> <br>
-                    <b>Nom de l'organisme</b>: <br>
-                    <input type="text" id="nom_organisme"> <br>
-                    <b>La raison sociale de l'organisme</b>: <br>
-                    <input type="text" id="raison_sociale"> <br>
-                    <b>Ligne</b>: <br>
-                    <input type="text" id="ligne"> <br>
-                    <b>Adresse 1</b>: <br>
-                    <input type="text" id="adr1"> <br>
-                    <b>Adresse 2</b>: <br>
-                    <input type="text" id="adr2"> <br>
-                    <b>Adresse 3</b>: <br>
-                    <input type="text" id="adr3"> <br>
-                    <b>Téléphone fixe</b>: <br>
-                    <input type="text" id="telfixe"> <br>
-                    <b>Téléphone portable</b>: <br>
-                    <input type="text" id="portable"> <br> 
-                    <b>Fax</b>: <br>
-                    <input type="text" id="fax"> <br> 
-                    <b>Email de l'organisme</b>: <br>
-                    <input type="text" id="courriel"> <br>
-                    <b>URL de l'organisme</b>: <br>
-                    <input type="text" id="urlweb"> <br>
-                    <b>Ville</b>: <br>
-                    <select class="select-orga" name="listeville" id="listeville"></select> <br> 
+                   
+                    <strong><center>Ajouter un organisme</strong> </center><br>
+                        <br>
+                    <strong><center>Coordonnées de L'organisme</center></strong>
+                    <div class='box1'>
+                        <strong>Latitude</strong>: <br>
+                        <input type="text" id="latitude" name="Latitude" placeholder="Latitude" required=""> <br>
+                        <strong>Longitude</strong>: <br>
+                        <input type="text" id="longitude" name="Longitude" placeholder="Longitude" required=""> <br>
+                        <strong>Numero d'activité</strong>: <br>
+                        <input type="text" id="numero_activite" name="Numero activité" placeholder="Numero activité" > <br>
+                        <strong>N° SIRET d'un organisme de formation</strong>: <br>
+                        <input type="text" id="siret_organisme_formation" name="Siret d'un Organisme de Formation" placeholder="Siret d'un Organisme de Formation"  > <br>
+                        <strong>Nom de l'organisme</strong>: <br>
+                        <input type="text" id="nom_organisme" name="Nom de l'organisme" placeholder="Nom de l'organisme" required=""> <br>
+                        <strong>La raison sociale de l'organisme</strong>: <br>
+                        <input type="text" id="raison_sociale" name="La raison sociale de l'organisme" placeholder="La raison sociale de l'organisme"> <br>
+                    </div>
                     
-                        
+                    <strong><center>Coordonnées de L'utilisateur</center></strong>
+                    
+                    <div class="separation">
+                        <strong> Ligne(Lieu dit)</strong>
+                        <input type="text" id="ligne" name="Ligne(Lieu dit)" placeholder="Ligne(Lieu dit)"> <br>
+                        <strong>Adresse 1</strong>: <br>
+                        <input type="text" id="adr1" name="Adresse 1" placeholder="Adresse 1" required=""><br>
+                        <strong>Adresse 2</strong>: <br>
+                        <input type="text" id="adr2" name="Adresse 2" placeholder="Adresse 2"><br>
+                        <strong>Adresse 3</strong>: <br>
+                        <input type="text" id="adr3" name="Adresse 3" placeholder="Adresse 3"><br>
+                        <strong>Téléphone fixe</strong>: <br>
+                        <input type="text" id="telfixe" name="Téléphone fixe" placeholder="Téléphone fixe" required=""> <br>
+                        <strong>Téléphone portable</strong>: <br>
+                        <input type="text" id="portable" name="Téléphone portable" placeholder="Téléphone portable" required=""> <br> 
+                        <strong>Fax</strong>: <br>
+                        <input type="text" id="fax" name="Fax" placeholder="Fax"> <br> 
+                        <strong>Email de l'organisme</strong>: <br>
+                        <input type="email" id="courriel" name="Email de l'organisme" size="50e" placeholder="Email de l'organisme" required=""> <br>
+                        <strong>URL de l'organisme</strong>: <br>
+                        <input type="text" id="urlweb" name="URL de l'organisme" placeholder="URL de l'organisme"><br>
+                        <strong>Ville</strong>: <br>
+                        <select class="select-orga" name="listeville" id="listeville"></select> <br> 
+                    </div>
+                                        
  
                     
                     

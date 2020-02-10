@@ -90,19 +90,66 @@ nav ul:after { clear: both; }
 
 
 .box{
-  background-color: #2980b9;
-  height:      50px;
-  line-height: 25px;
-  padding-left:  30px;
-  padding-right: 30px;
+
+  height:      0px;
+  line-height: 26px;
+  padding-left:  0px;
+  padding-right: 0px;
     
 }
 
+    
+    
+.box1{
+  background-color: white;
+  width: 300px;
+  border: 3px solid grey;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+/*Box dans laquelle ce trouve les input*/
+
+.separation{
+  background-color: white;
+  width: 300px;
+  border: 3px solid grey;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+    
+}
+
+
+/* Box insertion information*/
+
 .inputDiv {
-    background-color: white;
-    padding: 2px;
+    background-color: whitesmoke;
+    padding: 40px;
     z-index: 999;
 }
+
+input[type=text], select {
+  width: 85%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=email], select {
+  width: 85%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
 
 .bouttonform {
   background-color: #4CAF50; /* Green */
@@ -187,7 +234,6 @@ th, td {
   flex-flow: row wrap;
   align-items: center;
 }
-
 
 
 .select-orga {
