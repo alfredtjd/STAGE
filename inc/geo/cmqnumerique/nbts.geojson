@@ -1,0 +1,174 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.450136,-20.895214 ]
+    },
+    "properties": {
+    "name":"BTS Services informatiques aux organisations (SIO)",
+    "description":"A – solutions d’infrastructure, systèmes et réseaux",
+    "organisme":"Lycée Bellepierre",
+    "ville":"Saint-Denis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.714627,-21.048360 ]
+    },
+    "properties": {
+    "name":"BTS Services informatiques aux organisations (SIO)",
+    "description":"A – solutions d’infrastructure, systèmes et réseaux",
+    "organisme":"Lycée Nelson Mandela",
+    "ville":"Saint-Benoît"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.624135,-21.373471 ]
+    },
+    "properties": {
+    "name":"BTS Services informatiques aux organisations (SIO)",
+    "description":"A – solutions d’infrastructure, systèmes et réseaux",
+    "organisme":"Lycée Pierre Poivre",
+    "ville":"Saint-Joseph"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.450136,-20.895214 ]
+    },
+    "properties": {
+    "name":"BTS Services informatiques aux organisations (SIO)",
+    "description":"B – solutions logicielles et applications métiers",
+    "organisme":"Lycée Bellepierre",
+    "ville":"Saint-Denis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.714627,-21.048360 ]
+    },
+    "properties": {
+    "name":"BTS Services informatiques aux organisations (SIO)",
+    "description":"B – solutions logicielles et applications métiers",
+    "organisme":"Lycée Nelson Mandela",
+    "ville":"Saint-Benoît"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.624135,-21.373471 ]
+    },
+    "properties": {
+    "name":"BTS Services informatiques aux organisations (SIO)",
+    "description":"B – solutions logicielles et applications métiers",
+    "organisme":"Lycée Pierre Poivre",
+    "ville":"Saint-Joseph"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.301177,-21.103088 ]
+    },
+    "properties": {
+    "name":"BTS Systèmes numériques",
+    "description":"A – informatique et réseaux",
+    "organisme":"Lycée de Trois Bassins",
+    "ville":"La Saline les hauts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.520246,-21.273887 ]
+    },
+    "properties": {
+    "name":"BTS Systèmes numériques",
+    "description":"A – informatique et réseaux",
+    "organisme":"Lycée Roland Garros",
+    "ville":"Le Tampon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.301177,-21.103088 ]
+    },
+    "properties": {
+    "name":"BTS Systèmes numériques",
+    "description":"B – eléctronique et communication",
+    "organisme":"Lycée de Trois Bassins",
+    "ville":"La Saline les hauts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  55.520246,-21.273887 ]
+    },
+    "properties": {
+    "name":"BTS Systèmes numériques",
+    "description":"B - eléctronique et communication",
+    "organisme":"Lycée Roland Garros",
+    "ville":"Le Tampon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.52022,-21.274174 ]
+    },
+    "properties": {
+    "name":"BTS – Système numérique Option Électronique et Communication",
+    "description":"",
+    "organisme":"LYCEE ROLAND GARROS ",
+    "ville":"LE TAMPON "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.65368,-20.962887 ]
+    },
+    "properties": {
+    "name":"BTS – Système numérique Option Informatique et Réseaux",
+    "description":"",
+    "organisme":"LYCEE JEAN PERRIN",
+    "ville":"Saint Andre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.52022,-21.274174 ]
+    },
+    "properties": {
+    "name":"BTS – Système numérique Option Informatique et Réseaux",
+    "description":"",
+    "organisme":"LYCEE ROLAND GARROS ",
+    "ville":"LE TAMPON "
+    }
+  }
+]
+}

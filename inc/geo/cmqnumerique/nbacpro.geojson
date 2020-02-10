@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Système Numérique",
+        "description": "",
+        "organisme": "LP JEAN PERRIN",
+        "ville": "SAINT ANDRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.6525,
+          -20.9638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Système Numérique",
+        "description": "",
+        "organisme": "LP PAUL LANGEVIN",
+        "ville": "SAINT JOSEPH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.610063,
+          -21.382551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Pro – Systèmes numériques ",
+        "description": "A – Sûreté et sécurité des infrastructures de l’habitat et du tertiaire",
+        "organisme": "lycée Nord",
+        "ville": "Saint-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.479624,
+          -20.911392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Pro – Systèmes numériques ",
+        "description": "A – Sûreté et sécurité des infrastructures de l’habitat et du tertiaire ",
+        "organisme": "lycée Paul Langevin",
+        "ville": "Saint-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.610063,
+          -21.382551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Pro – Systèmes numériques ",
+        "description": "A – Sûreté et sécurité des infrastructures de l’habitat et du tertiaire",
+        "organisme": "lycée Jean Perrin",
+        "ville": "Saint-André"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.654084,
+          -20.962671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Pro – Systèmes numériques ",
+        "description": "B – Audio visuels réseau et équipement domestiques",
+        "organisme": "lycée Nord",
+        "ville": "Saint-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.479624,
+          -20.911392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Pro – Systèmes numériques ",
+        "description": "B – Audio visuels réseau et équipement domestiques",
+        "organisme": "lycée Paul Langevin",
+        "ville": "Saint-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.610063,
+          -21.382551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Pro – Systèmes numériques ",
+        "description": "B – Audio visuels réseau et équipement domestiques",
+        "organisme": "lycée Jean Perrin",
+        "ville": "Saint-André"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.654084,
+          -20.962671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Pro – Systèmes numériques ",
+        "description": "C – Réseaux informatiques et systèmes communicants ",
+        "organisme": "lycée Nord",
+        "ville": "Saint-Denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.479624,
+          -20.911392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Pro – Systèmes numériques ",
+        "description": "C – Réseaux informatiques et systèmes communicants ",
+        "organisme": "lycée Paul Langevin",
+        "ville": "Saint-Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.610063,
+          -21.382551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bac Pro – Systèmes numériques ",
+        "description": "C – Réseaux informatiques et systèmes communicants ",
+        "organisme": "lycée Jean Perrin",
+        "ville": "Saint-André"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.654084,
+          -20.962671
+        ]
+      }
+    }
+  ]
+}

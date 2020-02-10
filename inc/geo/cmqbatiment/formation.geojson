@@ -1,0 +1,3209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Conducteur d'engins\nTravaux Publics et Carrières",
+        "description": "",
+        "organisme": "CCI-CIRFIM",
+        "ville": "LE PORT",
+        "téléphone": " 0262 43 51 12",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30639,
+          -20.9338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EI - Bâtiment et énergie",
+        "description": "",
+        "organisme": "CCI-CIRFIM ",
+        "ville": "LE PORT",
+        "téléphone": "0262 43 51 12",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30639,
+          -20.9338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TP - Conducteur de Travaux du bâtiment, des travaux Publics et du Génie civil ",
+        "description": "",
+        "organisme": "CCI-CIRFIM ",
+        "ville": "LE PORT",
+        "téléphone": "0262 43 51 12",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30639,
+          -20.9338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Métiers de la piscine",
+        "description": "",
+        "organisme": "CFA Académique",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "0262 28 18 30",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47519,
+          -20.8958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DEUST – Conduite de travaux en éco-construction",
+        "description": "",
+        "organisme": "CNAM",
+        "ville": "LE PORT",
+        "téléphone": "0262 42 28 37",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.31813,
+          -20.95018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DI - Construction et aménagement parcours travaux",
+        "description": "",
+        "organisme": "CNAM",
+        "ville": "LE PORT",
+        "téléphone": "0262 42 28 37",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.31813,
+          -20.95018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Licence – Sciences, Technologies, Santé mention sciences de l'ingénieur en construction et aménagement parcours ingénierie des travaux du BTP",
+        "description": "",
+        "organisme": "CNAM",
+        "ville": "LE PORT",
+        "téléphone": "0262 42 28 37",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.31813,
+          -20.95018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EA - Architecture, ville et territoire en milieu Tropicale",
+        "description": "",
+        "organisme": "ECOLE D'ARCHITECTURE – ENSAM",
+        "ville": "LE PORT",
+        "téléphone": "0262 45 71 70",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29819,
+          -20.93896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Licence – Architecture",
+        "description": "",
+        "organisme": "ECOLE D'ARCHITECTURE – ENSAM",
+        "ville": "LE PORT",
+        "téléphone": "0262 45 71 70",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29819,
+          -20.93896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DUT – Génie Civil construction durable",
+        "description": "",
+        "organisme": "IUT",
+        "ville": "TERRE SAINTE",
+        "téléphone": "0262 96 28 70",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4904,
+          -21.34165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LP - Métiers de l'Energétique, de l'environnement et du Génie Climatique spécialité maîtrise de l'énergie et énergies renouvelables",
+        "description": "",
+        "organisme": "IUT",
+        "ville": "TERRE SAINTE",
+        "téléphone": "0262 96 28 70",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4904,
+          -21.34165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LP - Métiers du BTP Génie Civil et Construction spécialité gestion de projet et conduite de travaux",
+        "description": "",
+        "organisme": "IUT",
+        "ville": "TERRE SAINTE",
+        "téléphone": "0262 96 28 70",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4904,
+          -21.34165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Métiers de l’Electricité et de ses Environnements Connectés (MELEC)",
+        "description": "",
+        "organisme": "LP AMIRAL LACAZE",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 93 13 23",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47571,
+          -20.891956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Électricien",
+        "description": "",
+        "organisme": "LP AMIRAL LACAZE",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 93 13 23",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47571,
+          -20.891956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Menuisier aluminium-verre",
+        "description": "",
+        "organisme": "LP BELAIR",
+        "ville": "SAINTE SUZANNE",
+        "téléphone": "262 98 06 51",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.60103,
+          -20.905364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Ouvrage du bâtiment : métallerie ",
+        "description": "",
+        "organisme": "LP BELAIR",
+        "ville": "SAINTE SUZANNE",
+        "téléphone": "262 98 06 51",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.60103,
+          -20.905364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Ferronnier d'art",
+        "description": "",
+        "organisme": "LP BELAIR",
+        "ville": "SAINTE SUZANNE",
+        "téléphone": "262 98 06 51",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.60103,
+          -20.905364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Menuisier aluminium-verre",
+        "description": "",
+        "organisme": "LP BELAIR",
+        "ville": "SAINTE SUZANNE",
+        "téléphone": "262 98 06 51",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.60103,
+          -20.905364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Serrurier métallier",
+        "description": "",
+        "organisme": "LP BELAIR",
+        "ville": "SAINTE SUZANNE",
+        "téléphone": "262 98 06 51",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.60103,
+          -20.905364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Aménagement et finition du bâtiment",
+        "description": "",
+        "organisme": "LP BOIS D’OLIVE",
+        "ville": "RAVINE DE CABRIS",
+        "téléphone": "262 49 89 71",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46093,
+          -21.295912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Travaux publics",
+        "description": "",
+        "organisme": "LP BOIS D’OLIVE",
+        "ville": "RAVINE DE CABRIS",
+        "téléphone": "262 49 89 71",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46093,
+          -21.295912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Constructeur en canalisations des travaux publics",
+        "description": "",
+        "organisme": "LP BOIS D’OLIVE",
+        "ville": "RAVINE DE CABRIS",
+        "téléphone": "262 49 89 71",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46093,
+          -21.295912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Plâtrier – plastique",
+        "description": "",
+        "organisme": "LP BOIS D’OLIVE",
+        "ville": "RAVINE DE CABRIS",
+        "téléphone": "262 49 89 71",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46093,
+          -21.295912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Serrurier métallier",
+        "description": "",
+        "organisme": "LP BOIS JOLY POTIER",
+        "ville": "LE TAMPON",
+        "téléphone": "262 57 90 22",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.525304,
+          -21.249074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Intervention sur le patrimoine bâti",
+        "description": "",
+        "organisme": "LP JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "262 71 19 10",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien constructeur de bois",
+        "description": "",
+        "organisme": "LP JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "262 71 19 10",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : assistant en architecture ",
+        "description": "",
+        "organisme": "LP JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "262 71 19 10",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : études et économie ",
+        "description": "",
+        "organisme": "LP JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "262 71 19 10",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : organisation et réalisation du gros œuvre",
+        "description": "",
+        "organisme": "LP JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "262 71 19 10",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien géomètre – topographe",
+        "description": "",
+        "organisme": "LP JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "262 71 19 10",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Charpentier bois",
+        "description": "",
+        "organisme": "LP JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "262 71 19 10",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Constructeur en ouvrage d’art",
+        "description": "",
+        "organisme": "LP JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "262 71 19 10",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Couvreur",
+        "description": "",
+        "organisme": "LP JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "262 71 19 10",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien constructeur de bois",
+        "description": "",
+        "organisme": "LP JEAN JOLY",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 39 75 20",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43581,
+          -21.271501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Intervention sur le patrimoine bâti",
+        "description": "",
+        "organisme": "LP JEAN PERRIN",
+        "ville": "SAINT ANDRE",
+        "téléphone": "262 58 84 59",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65368,
+          -20.962887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien de fabrication bois et matériaux associés",
+        "description": "",
+        "organisme": "LP JEAN PERRIN",
+        "ville": "SAINT ANDRE",
+        "téléphone": "262 58 84 59",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65368,
+          -20.962887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Électricien",
+        "description": "",
+        "organisme": "LP JEAN PERRIN",
+        "ville": "SAINT ANDRE",
+        "téléphone": "262 58 84 59",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65368,
+          -20.962887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Intervention sur le patrimoine bâti",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Métiers de l’Electricité et de ses Environnements Connectés (MELEC)",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : assistant en architecture ",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : études et économie ",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : organisation et réalisation du gros œuvre",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien du froid et du conditionnement de l’air ",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien en installation des systèmes énergétiques et climatique",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien géomètre – topographe",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien menuisier – agenceur",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Travaux publics",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Carreleur mosaïste",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Conducteur d’engins : travaux Publics et carrière ",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Constructeur Bois",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Constructeur en canalisations des travaux publics",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Installateur sanitaire",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Menuisier fabricant de menuiserie mobilier et agencement",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Peintre applicateur de revêtement ",
+        "description": "",
+        "organisme": "LP L’HORIZON",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "262 48 44 64",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Métiers de l’Electricité et de ses Environnements Connectés (MELEC)",
+        "description": "",
+        "organisme": "LP LEON LEPERVANCHE",
+        "ville": "LE PORT",
+        "téléphone": "262 42 75 43",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30348,
+          -20.932582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Électricien",
+        "description": "",
+        "organisme": "LP LEON LEPERVANCHE",
+        "ville": "LE PORT",
+        "téléphone": "262 42 75 43",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30348,
+          -20.932583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Métiers de l’Electricité et de ses Environnements Connectés (MELEC)",
+        "description": "",
+        "organisme": "LP PATU DE ROSEMONT",
+        "ville": "SAINT BENOIT",
+        "téléphone": "262 92 95 39",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.717416,
+          -21.042247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien constructeur de bois",
+        "description": "",
+        "organisme": "LP PATU DE ROSEMONT",
+        "ville": "SAINT BENOIT",
+        "téléphone": "262 92 95 39",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.717416,
+          -21.042247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien menuisier – agenceur",
+        "description": "",
+        "organisme": "LP PATU DE ROSEMONT",
+        "ville": "SAINT BENOIT",
+        "téléphone": "262 92 95 39",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.717416,
+          -21.042247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Charpentier bois",
+        "description": "",
+        "organisme": "LP PATU DE ROSEMONT",
+        "ville": "SAINT BENOIT",
+        "téléphone": "262 92 95 39",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.717416,
+          -21.042247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Menuisier fabricant de menuiserie mobilier et agencement",
+        "description": "",
+        "organisme": "LP PATU DE ROSEMONT",
+        "ville": "SAINT BENOIT",
+        "téléphone": "262 92 95 39",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.717416,
+          -21.042247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Electronique Energie Equipements Communicants ",
+        "description": "",
+        "organisme": "LP PAUL LANGEVIN",
+        "ville": "SAINT JOSEPH",
+        "téléphone": "262 56 69 32",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.61004,
+          -21.38289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Menuisier aluminium-verre",
+        "description": "",
+        "organisme": "LP PAUL LANGEVIN",
+        "ville": "SAINT JOSEPH",
+        "téléphone": "262 56 69 32",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.61004,
+          -21.38289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien menuisier – agenceur",
+        "description": "",
+        "organisme": "LP PAUL LANGEVIN",
+        "ville": "SAINT JOSEPH",
+        "téléphone": "262 56 69 32",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.61004,
+          -21.38289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Constructeur Bois",
+        "description": "",
+        "organisme": "LP PAUL LANGEVIN",
+        "ville": "SAINT JOSEPH",
+        "téléphone": "262 56 69 32",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.61004,
+          -21.38289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Électricien",
+        "description": "",
+        "organisme": "LP PAUL LANGEVIN",
+        "ville": "SAINT JOSEPH",
+        "téléphone": "262 56 69 32",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.61004,
+          -21.38289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Menuisier aluminium-verre",
+        "description": "",
+        "organisme": "LP PAUL LANGEVIN",
+        "ville": "SAINT JOSEPH",
+        "téléphone": "262 56 69 32",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.61004,
+          -21.38289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Menuisier fabricant de menuiserie mobilier et agencement",
+        "description": "",
+        "organisme": "LP PAUL LANGEVIN",
+        "ville": "SAINT JOSEPH",
+        "téléphone": "262 56 69 32",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.61004,
+          -21.38289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Aménagement et finition du bâtiment",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : assistant en architecture ",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : études et économie",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : organisation et réalisation du gros œuvre",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien de maintenance des système énergétique et climatique",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien en installation des systèmes énergétiques et climatique",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien géomètre – topographe",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Installateur en froid et climatisation",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Installateur sanitaire",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Maçon",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Peintre applicateur de revêtement ",
+        "description": "",
+        "organisme": "LP PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "262 51 53 30",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Aménagement et finition du bâtiment",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Etude et réalisation d’agencement",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Intervention sur le patrimoine bâti",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Métiers de l’Electricité et de ses Environnements Connectés (MELEC)",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Ouvrage du bâtiment : métallerie ",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : assistant en architecture ",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du batiment : études et économie ",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : organisation et réalisation du gros oeuvre ",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien de maintenance des système énergétique et climatique",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien du froid et du conditionnement de l’air ",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien géomètre – topographe",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien menuisier – agenceur",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Carreleur mosaïste",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Ébéniste",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Électricien",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Installateur en froid et climatisation",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Installateur sanitaire",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Maçon",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Menuisier fabricant de menuiserie mobilier et agencement",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Menuisier installateur",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Peintre applicateur de revêtement ",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Serrurier métallier",
+        "description": "",
+        "organisme": "LP ROCHES MAIGRES",
+        "ville": "SAINT LOUIS",
+        "téléphone": "262 91 28 58",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.41458,
+          -21.275357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Métiers de l’Electricité et de ses Environnements Connectés (MELEC)",
+        "description": "",
+        "organisme": "LP ROLAND GARROS",
+        "ville": "LE TAMPON",
+        "téléphone": "262 57 81 37",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.51967,
+          -21.2741202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Électricien",
+        "description": "",
+        "organisme": "LP ROLAND GARROS",
+        "ville": "LE TAMPON",
+        "téléphone": "262 57 81 37",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.51967,
+          -21.2741202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Technicien d’études du bâtiment : assistant en architecture ",
+        "description": "",
+        "organisme": "LP SAINT FRANCOIS XAVIER",
+        "ville": "LA MONTAGNE",
+        "téléphone": "262 23 53 86",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478114,
+          -20.896753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Maintenance de bâtiments et de collectivités",
+        "description": "",
+        "organisme": "LP SAINT FRANCOIS XAVIER",
+        "ville": "LA MONTAGNE",
+        "téléphone": "262 23 53 86",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478114,
+          -20.896753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Peintre applicateur de revêtement ",
+        "description": "",
+        "organisme": "LP SAINT FRANCOIS XAVIER",
+        "ville": "LA MONTAGNE",
+        "téléphone": "262 23 53 86",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478114,
+          -20.896753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Plâtrier – plastique",
+        "description": "",
+        "organisme": "LP SAINT FRANCOIS XAVIER",
+        "ville": "LA MONTAGNE",
+        "téléphone": "262 23 53 86",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.478114,
+          -20.896753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Assistant technique d'ingénieur",
+        "description": "",
+        "organisme": "LYCEE AMIRAL LACAZE",
+        "ville": "SAINTE-CLOTILDE ",
+        "téléphone": " 0262 93 13 23",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47571,
+          -20.891956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Architectures en métal: conception et réalisation – AMCR",
+        "description": "",
+        "organisme": "LYCEE BEL AIR",
+        "ville": "SAINT SUZANNE",
+        "téléphone": "0262 98 06 51",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.60103,
+          -20.905364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Enveloppes du bâtiment : Conception et réalisation – EBCR",
+        "description": "",
+        "organisme": "LYCEE BEL AIR",
+        "ville": "SAINT SUZANNE",
+        "téléphone": "0262 98 06 51",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.60103,
+          -20.905364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS - Aménagement et finition",
+        "description": "",
+        "organisme": "LYCEE BOIS D'OLIVE",
+        "ville": "RAVINE DES CABRIS ",
+        "téléphone": "0262 49 89 71",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46093,
+          -21.295912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Études et économie de la construction",
+        "description": "",
+        "organisme": "LYCEE BOIS D'OLIVE",
+        "ville": "RAVINE DES CABRIS ",
+        "téléphone": "0262 49 89 71",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46093,
+          -21.295912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Fluide Énergie Domotique : Option  Domotique et Bâtiments Communicants",
+        "description": "",
+        "organisme": "LYCEE BOIS D'OLIVE",
+        "ville": "RAVINE DES CABRIS ",
+        "téléphone": "0262 49 89 71",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46093,
+          -21.295912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Fluide Énergie Domotique : Option  Froid et Conditionnement d'Air",
+        "description": "",
+        "organisme": "LYCEE BOIS D'OLIVE",
+        "ville": "RAVINE DES CABRIS ",
+        "téléphone": "0262 49 89 71",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46093,
+          -21.295912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Fluide Énergie Domotique : Option Génie Climatique et Fluidique",
+        "description": "",
+        "organisme": "LYCEE BOIS D'OLIVE",
+        "ville": "RAVINE DES CABRIS ",
+        "téléphone": "0262 49 89 71",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46093,
+          -21.295912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Bâtiment",
+        "description": "",
+        "organisme": "LYCEE JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "0262 71 19 10",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Technico-commercial option Matériaux du Bâtiment",
+        "description": "",
+        "organisme": "LYCEE JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "0262 71 19 10",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Travaux Publics",
+        "description": "",
+        "organisme": "LYCEE JEAN HINGLO",
+        "ville": "LE PORT",
+        "téléphone": "0262 71 19 10",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.29169,
+          -20.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Développement et réalisation bois",
+        "description": "",
+        "organisme": "LYCEE JEAN JOLY",
+        "ville": "SAINT LOUIS",
+        "téléphone": "0262 39 75 20",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43581,
+          -21.271501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Systèmes constructifs bois et habitat",
+        "description": "",
+        "organisme": "LYCEE JEAN JOLY",
+        "ville": "SAINT LOUIS",
+        "téléphone": "0262 39 75 20",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.43581,
+          -21.271501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Électrotechnique",
+        "description": "",
+        "organisme": "LYCEE JEAN PERRIN",
+        "ville": "SAINT ANDRE",
+        "téléphone": "0262 58 84 59",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65368,
+          -20.962887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Maintenance des systèmes option :Systèmes énergétiques et fluidiques",
+        "description": "",
+        "organisme": "LYCEE L'HORIZON",
+        "ville": "SAINTE-CLOTILDE ",
+        "téléphone": "0262 48 44 64",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MC - Technicien en énergies renouvelables option énergies thermiques",
+        "description": "",
+        "organisme": "LYCEE L'HORIZON",
+        "ville": "SAINTE-CLOTILDE ",
+        "téléphone": "0262 48 44 64",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48498,
+          -20.90599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Électrotechnique",
+        "description": "",
+        "organisme": "LYCEE LISLET GEOFFROY",
+        "ville": "SAINTE-CLOTILDE ",
+        "téléphone": "0262 90 72 11",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46896,
+          -20.888282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Maintenance des systèmes de production",
+        "description": "",
+        "organisme": "LYCEE LISLET GEOFFROY",
+        "ville": "SAINTE-CLOTILDE ",
+        "téléphone": "0262 90 72 11",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.46896,
+          -20.888282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Études et économie de la construction",
+        "description": "",
+        "organisme": "LYCEE PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "0262 51 53 30",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Études et réalisation d'agencement",
+        "description": "",
+        "organisme": "LYCEE PAUL MOREAU",
+        "ville": "BRAS PANON",
+        "téléphone": "0262 51 53 30",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.68317,
+          -21.002812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Assistant technique d'ingénieur",
+        "description": "",
+        "organisme": "LYCEE ROLAND GARROS ",
+        "ville": "LE TAMPON ",
+        "téléphone": "0262 57 81 37",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.51967,
+          -21.2741202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Électrotechnique",
+        "description": "",
+        "organisme": "LYCEE ROLAND GARROS ",
+        "ville": "LE TAMPON ",
+        "téléphone": "0262 57 81 37",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.51967,
+          -21.2741202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CGPE - Adaptation Technicien Supérieur",
+        "description": "",
+        "organisme": "LYCEE ROLAND GARROS ",
+        "ville": "LE TAMPON ",
+        "téléphone": "0262 57 81 37",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           55.51967,
+          -21.2741202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Licence – Génie Civil ",
+        "description": "",
+        "organisme": "UFR SHE",
+        "ville": "LE TAMPON ",
+        "téléphone": "0262 57 92 43",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.50759,
+          -21.27078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Master - Ville et Environnements Urbains",
+        "description": "",
+        "organisme": "UFR SHE",
+        "ville": "LE TAMPON ",
+        "téléphone": "0262 57 92 43",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.50759,
+          -21.27078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Master – Génie Civil",
+        "description": "",
+        "organisme": "UFR SHE",
+        "ville": "LE TAMPON ",
+        "téléphone": "0262 57 92 43",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.50759,
+          -21.27078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BMA Ebéniste",
+        "description": "",
+        "organisme": "URMA",
+        "ville": " SAINT-PIERRE ",
+        "téléphone": " 0262 96 12 40",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.484914,
+          -21.328337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Ebéniste",
+        "description": "",
+        "organisme": "URMA",
+        "ville": " SAINT-PIERRE ",
+        "téléphone": " 0262 96 12 40",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.484914,
+          -21.328337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Maintenance de bâtiments et de collectivités",
+        "description": "",
+        "organisme": "URMA",
+        "ville": " SAINT-PIERRE ",
+        "téléphone": " 0262 96 12 40",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.484914,
+          -21.328337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Maintenance des matériels :\noption matériel de TP et manutention",
+        "description": "",
+        "organisme": "URMA",
+        "ville": " SAINT-PIERRE ",
+        "téléphone": " 0262 96 12 40",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.484914,
+          -21.328337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Menuisier fabricant de menuiserie mobilier et agencement",
+        "description": "",
+        "organisme": "URMA",
+        "ville": " SAINT-PIERRE ",
+        "téléphone": " 0262 96 12 40",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.484914,
+          -21.328337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Métiers de l'Electricité et de ses Environnements Connectés (MELEC)",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 43 51 12",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Systèmes numériques",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 43 51 12",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Electricien",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 31",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Installateur dépanneur froid et conditionnement d'air",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 31",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Installation en équipements électriques",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 31",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Électrotechnique",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 31",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Fluide Énergie Domotique : Option  Domotique et Bâtiments Communicants",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 31",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS – Fluide Énergie Domotique : Option  Froid et Conditionnement d'Air",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 31",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Installateur en froid et conditionnement d'air",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 31",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Préparation réalisation d'ouvrages électriques",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 31",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LP – Maîtrise de l'efficacité énergétique des Bâtiments",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 31",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MC Technicien en réseaux électriques",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 31",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TP Technicien d'intervention en froid commercial et climatisation",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "LE PORT",
+        "téléphone": " 0262 42 10 32",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30427,
+          -20.934135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Travaux Publics",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Carreleur mosaïste",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Maçon",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Maçon ",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT PIERRE",
+        "téléphone": " 0262 96 12 40",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.484914,
+          -21.328337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Menuiserie aluminium verre",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Menuisier",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Monteur installateur génie climatique et sanitaire",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Peintre applicateur de revêtement",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BTS - Aménagement et finition",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": "0262 46 62 00",
+        "formation": "BTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Carreleur mosaïste",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Charpentier Bois",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Constructeur bois",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Constructeur d'ouvrages d'art",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Constructeur de Routes",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Constructeur en canalisations des Travaux Publics",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Etancheur BTP",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Installateur sanitaire",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Maçon",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Menuiserie aluminium verre",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Menuisier fabricant de menuiserie mobilier et agencement",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Peintre applicateur de revêtements",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Platrier plaquiste",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": " 0262 46 62 00",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TP - Chargé d'affaire du bâtiment",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT ANDRE",
+        "téléphone": "0262 46 62 00",
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.65256,
+          -20.96775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TP - Technicien Supérieur Géomètre Topographe Option Entreprises TP",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINT-PIERRE ",
+        "téléphone": 262961240,
+        "formation": "DIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.484914,
+          -21.328337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAC PRO Ouvrages du bâtiment : métallerie",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "0262 28 18 30",
+        "formation": "BACPRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47519,
+          -20.8958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP Métallier",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "0262 28 18 30",
+        "formation": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47519,
+          -20.8958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAP Serrurier métallier",
+        "description": "",
+        "organisme": "URMA",
+        "ville": "SAINTE CLOTILDE",
+        "téléphone": "0262 28 18 30",
+        "formation": "CAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47519,
+          -20.8958
+        ]
+      }
+    }
+  ]
+}
